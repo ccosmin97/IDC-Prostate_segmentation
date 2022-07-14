@@ -66,7 +66,7 @@ Below is detailed description of the structure of the repository :
     * [results_analysis.ipynb](https://github.com/ccosmin97/IDC-Prostate_segmentation/blob/main/IDC_notebooks/results_analysis.ipynb) : Results analysis from experiments
 2. [**nnunet_results**](https://github.com/ccosmin97/IDC-Prostate_segmentation/tree/main/nnunet_results) : Contains the DSC and other quantitative metrics results for each experiment, used also in results_analysis.ipynb 
 
-3. Open any of these ipynb in colab!
+3. Open any of these ipynb in [Google Colab](https://colab.research.google.com/)!
 <!--
    ```sh
    npm install
